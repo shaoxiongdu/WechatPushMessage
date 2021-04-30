@@ -1,6 +1,6 @@
 # WechatPushMessage
 
-![image-20210430221930768](https://gitee.com/ShaoxiongDu/imageBed/raw/master/image-20210430221930768.png)
+![image-20210430223228254](https://gitee.com/ShaoxiongDu/imageBed/raw/master/image-20210430223228254.png)
 
 > 你只需要调用简单的API，即可帮助你迅速完成消息的推送，使用简单方便；项目说明
 
@@ -10,7 +10,7 @@
 
 ## 使用步骤
 
-1. 打开[PushPlus官网] (https://pushplus.hxtrip.com/)
+1. 打开 [PushPlus官网](https://pushplus.hxtrip.com/)
 
 2. 点击导航栏上方的一对一推送，微信扫码登录即可。
 
